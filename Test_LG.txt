@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 LOOOOOOOOOOL
+=======
+11111
+Hallo Schmidli Hallo Janic
+Warum findet der Henker nie den Rückweg? - Weil er nur die Hinrichtung kennt.
+22222
+>>>>>>> 8338c4e012fe7421a630ebebf2101a269d80b41f
